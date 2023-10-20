@@ -3,7 +3,7 @@ In this GitHub repo, we provide biosigner algorithm [1], GMDH algorithm [2], Det
  **Geneselection**. Descriptions of these folders and the files in them are given below:
 
 
-**Dataset:** We provide an example gene expression dataset which is available at https://portal.gdc.cancer.gov/projects/TCGA-KICH. Researcher use this example dataset or their own gene expression data.
+**Dataset:** We provide an example dataset which is available at https://portal.gdc.cancer.gov/projects/TCGA-KICH. Researcher use this gene expression dataset or their own data RNA-seq data.
 
 
 **Functions:** We include the source codes required for the gene selection to this folder. 
