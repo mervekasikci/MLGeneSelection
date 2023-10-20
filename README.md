@@ -1,5 +1,6 @@
 # Machine Learning Based Gene Selection Algorithms for RNA-seq Gene Expression Data
-In this GitHub repo, we provide biosigner algorithm [1], GMDH algorithm [2], Determan's optimal gene selection algorithm within support vector machines, random forest and elastic net generalized linear model [3] to perform gene selection for RNA-seq gene expression data. There are three folders in this repo named dataset, functions and gene selection. Descriptions of these folders and the files in them are below:
+In this GitHub repo, we provide biosigner algorithm [1], GMDH algorithm [2], Determan's optimal gene selection algorithm within support vector machines, random forest and elastic net generalized linear model [3] to perform gene selection for RNA-seq gene expression data. There are three folders in this repo named **Dataset**, **Functions**, and
+ **Geneselection**. Descriptions of these folders and the files in them are below:
 
 **Dataset:** We provide an example gene expression dataset which is available at https://portal.gdc.cancer.gov/projects/TCGA-KICH. Researcher use this example dataset or their own gene expression data.
 
