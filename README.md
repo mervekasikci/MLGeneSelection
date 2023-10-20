@@ -12,7 +12,7 @@ Additionally, we add a source R code called "data_simulating.R" for researchers 
 
 **Geneselection:** We add codes for gene selection via machine learning algorithms to this folder. The 'geneselection_biosigner.R' code is used for gene selection with the biosigner algorithm, 'geneselection_gmdh.R' for the GMDH algorithm, and 'geneselection_omicsmarker.R' for Determan's algorithm within support vector machines, random forest and elastic net generalized linear models. The files in these folders not only enable gene selection with machine learning algorithms, but also enable the preprocessing steps to be applied to the data. The codes in this folder contain the following steps:
 
-1. Data uploading: Researchers use example dataset (KICH_data.txt) or they can upload their raw RNA-seq gene expression dataset.
+1. Data uploading: Researchers can use the example dataset (KICH_data.txt) or they can upload their raw RNA-seq gene expression dataset.
 2. Filtering: Near-zero variance filtering is applied to remove genes with low variance.
 3. Normalization: Median ratio normalization is performed to the filtered count data.
 4. Transformation: Logarithmic transformation is applied to the normalized data to obtain a less skewed distribution.
